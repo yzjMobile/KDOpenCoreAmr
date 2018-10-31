@@ -1,0 +1,16 @@
+PODS:
+  - KDOpenCoreAmr (0.1.0)
+
+DEPENDENCIES:
+  - KDOpenCoreAmr (from `../`)
+
+EXTERNAL SOURCES:
+  KDOpenCoreAmr:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KDOpenCoreAmr: b0587a43fe63a9332c1b98dedfed63d5b6cc2c14
+
+PODFILE CHECKSUM: 22af606e0243560b14b6a70de70bb44ab54f85e6
+
+COCOAPODS: 1.5.3

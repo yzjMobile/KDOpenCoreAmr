@@ -1,0 +1,6 @@
+framework module KDOpenCoreAmr {
+  umbrella header "KDOpenCoreAmr-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KDOpenCoreAmr_Example' do
+  pod 'KDOpenCoreAmr', :path => '../'
+
+  target 'KDOpenCoreAmr_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
